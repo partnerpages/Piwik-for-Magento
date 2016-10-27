@@ -1,4 +1,6 @@
-# Read Me
+# PartnerPages Magento Plugin for 1.x
+
+For the Magento v2.x plugin please [click here](https://github.com/partnerpages/magento2-partnerpages)
 
 ## Simple Install
 To manually install all you need to do is copy over the app folder to your Magento one.
